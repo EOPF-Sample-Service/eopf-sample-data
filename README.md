@@ -1,6 +1,16 @@
 # eopf-sample-data-request
 This is the repo for handling the EOPF sample data requests.
 
+#### It will focus on below topics:
+- **request new datasets**
+- report **errors of the converted dataset**. This type of issues are focusing on conversion processing itself, which make sure that conversion processing is run correctly and output data are completely uploaded to the bucket. 
+- present **issues or errors during converting certain type of scenes**
+- other wishes regarding sample datasets.  i.e. uploading datasets of SAFE format for comparison
+
+#### but exclude below topics:
+ - issues are found in the converted dataset but **stem from CPM package**. They should be reported at  "https://gitlab.eopf.copernicus.eu/cpm/eopf-cpm/-/issues".
+ - EOPF-ZARR **format related issues**: missing metadata, wrong metadata, or other suggestions, which should also go to eopf-cpm repo. 
+
 
 ## Request sample data
 
