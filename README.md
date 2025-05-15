@@ -22,6 +22,6 @@ To request sample data for your use case, please create an issue following below
 
 ## S3Path of scene
 
-The S3Path is path to S3 object of the scene at copernicus data space ecosystem, which you can find in the Prodcut metadata section. For example, S3Path for the Sentinel-2 L2A scene "S2A_MSIL2A_20180601T102021_N0500_R065_T32UPC_20230902T045008.SAFE" is
+The S3Path is path to S3 object of the scene at copernicus data space ecosystem, which you can find in the Product metadata section. For example, S3Path for the Sentinel-2 L2A scene "S2A_MSIL2A_20180601T102021_N0500_R065_T32UPC_20230902T045008.SAFE" is
 
 /eodata/Sentinel-2/MSI/L2A_N0500/2018/06/01/S2A_MSIL2A_20180601T102021_N0500_R065_T32UPC_20230902T045008.SAFE
